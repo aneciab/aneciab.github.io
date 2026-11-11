@@ -6,3 +6,85 @@
 
     Good luck, and have fun!
 */
+img {
+    width: 100%;
+    display: block;
+}
+.post-it {
+    background-color:yellow;
+    width: 200px;
+    height: 300px;
+    font-family: sans-serif;
+    margin:24px;
+    padding:24px;
+    vertical-align: top;
+    display: inline-block;
+    box-shadow: -4px -4px 4px #00000033;
+
+}
+.armandd {
+    background-color:darkred;
+    width: 200px;
+    height: 300px;
+}
+.armandd span {
+    display: block;
+    text-align: right;
+}
+
+.lestat {
+    background-color: #dd51db;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    position: relative;
+}
+.lestat p{
+    position: relative;
+    color: blanchedalmond;
+}
+.lestat span{
+    display: block;
+    text-align:right;
+    color:antiquewhite
+}
+.claudia{
+    background-color: darkred;
+}
+.claudia h1 {
+    font-size: small;
+}
+.claudia p{
+    font-size: small;
+}
+.claudia span{
+    display: block
+    ;
+    text-align: right;
+}
+.lestatlouis{
+    background-color: darkgreen;
+}
+.lestatlouis h1{
+    font-size: small;
+    color: antiquewhite;
+}
+.lestatlouis p {
+font-family: cursive;
+color: antiquewhite;
+}
+.Armandserves{
+background-color: darkblue;
+}
+.Armandserves h1{
+    font-size: small;
+    color: beige;
+}
+.Armandserves p{
+    color: beige;
+}
+.Armandserves span{
+    color: beige;
+    display: block;
+    text-align: right;
+}
